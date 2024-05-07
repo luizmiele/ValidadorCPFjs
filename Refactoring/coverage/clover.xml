@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698178954186" clover="3.2.0">
+  <project timestamp="1698178954186" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2" elements="36" coveredelements="36" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="validateCPF_old.js" path="C:\Users\luizm\OneDrive\Área de Trabalho\testes\Refactoring\validateCPF_old.js">
+      <metrics statements="22" coveredstatements="22" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <line num="2" count="12" type="cond" truecount="6" falsecount="0"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="8" count="32" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="66" type="stmt"/>
+      <line num="17" count="66" type="stmt"/>
+      <line num="18" count="66" type="stmt"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="21" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="23" count="7" type="stmt"/>
+      <line num="24" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="29" count="7" type="stmt"/>
+      <line num="30" count="7" type="stmt"/>
+      <line num="31" count="7" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
